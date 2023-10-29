@@ -14,8 +14,6 @@ export const Balance = ()=>{
      setBalance(totalAmounts)
   },[transactions])
 
-
-  
   return(
     <>
       <h4>Your Balance</h4>
